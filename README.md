@@ -402,9 +402,9 @@ Note: "Provisioning" tools can be used to perform configuration management to so
 
 ## More Infra & DevOps projects
 
-<p align="center"><a href="https://github.com/bregman-arie/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/devops-exercises"><img src="images/devops_exercises.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infraverse.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/devops-exercises"><img src="images/devops_exercises.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/infraverse"><img src="images/infraverse.png"/></a></p>
 
 ## Credits
 
